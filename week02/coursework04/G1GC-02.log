@@ -1,0 +1,36 @@
+Java HotSpot(TM) 64-Bit Server VM (25.261-b12) for bsd-amd64 JRE (1.8.0_261-b12), built on Jun 18 2020 06:38:55 by "java_re" with gcc 4.2.1 Compatible Apple LLVM 10.0.0 (clang-1000.11.45.5)
+Memory: 4k page, physical 16777216k(44312k free)
+
+/proc/meminfo:
+
+CommandLine flags: -XX:InitialHeapSize=1073741824 -XX:MaxHeapSize=1073741824 -XX:+PrintGC -XX:+PrintGCTimeStamps -XX:+UseCompressedClassPointers -XX:+UseCompressedOops -XX:+UseG1GC 
+0.284: [GC pause (G1 Evacuation Pause) (young) 62M->24M(1024M), 0.0063953 secs]
+0.303: [GC pause (G1 Evacuation Pause) (young) 78M->42M(1024M), 0.0054202 secs]
+0.318: [GC pause (G1 Evacuation Pause) (young) 97M->61M(1024M), 0.0093186 secs]
+0.382: [GC pause (G1 Evacuation Pause) (young) 157M->89M(1024M), 0.0152562 secs]
+0.589: [GC pause (G1 Evacuation Pause) (young) 324M->161M(1024M), 0.0873914 secs]
+0.688: [GC pause (G1 Evacuation Pause) (young) 244M->188M(1024M), 0.0158745 secs]
+0.757: [GC pause (G1 Evacuation Pause) (young) 384M->242M(1024M), 0.0223931 secs]
+0.815: [GC pause (G1 Evacuation Pause) (young) 451M->304M(1024M), 0.0193012 secs]
+0.877: [GC pause (G1 Evacuation Pause) (young) 556M->367M(1024M), 0.0648461 secs]
+0.971: [GC pause (G1 Humongous Allocation) (young) (initial-mark) 586M->424M(1024M), 0.0176152 secs]
+0.989: [GC concurrent-root-region-scan-start]
+0.989: [GC concurrent-root-region-scan-end, 0.0001089 secs]
+0.989: [GC concurrent-mark-start]
+0.992: [GC concurrent-mark-end, 0.0035209 secs]
+0.992: [GC remark, 0.0017725 secs]
+0.994: [GC cleanup 451M->436M(1024M), 0.0007866 secs]
+0.995: [GC concurrent-cleanup-start]
+0.995: [GC concurrent-cleanup-end, 0.0000170 secs]
+1.072: [GC pause (G1 Evacuation Pause) (young) 735M->470M(1024M), 0.0343043 secs]
+1.109: [GC pause (G1 Evacuation Pause) (mixed) 488M->393M(1024M), 0.0083595 secs]
+1.126: [GC pause (G1 Evacuation Pause) (mixed) 450M->410M(1024M), 0.0040623 secs]
+1.133: [GC pause (G1 Humongous Allocation) (young) (initial-mark) 425M->413M(1024M), 0.0022542 secs]
+1.135: [GC concurrent-root-region-scan-start]
+1.135: [GC concurrent-root-region-scan-end, 0.0000842 secs]
+1.135: [GC concurrent-mark-start]
+1.137: [GC concurrent-mark-end, 0.0015393 secs]
+1.137: [GC remark, 0.0012127 secs]
+1.138: [GC cleanup 431M->430M(1024M), 0.0007859 secs]
+1.139: [GC concurrent-cleanup-start]
+1.139: [GC concurrent-cleanup-end, 0.0000077 secs]
